@@ -4,3 +4,6 @@ These are the R scripts that were used as part of the article published in 2022 
 
 ## 1_Preparing_data.R
 Script used to convert shapefiles (Key Biodiversity Areas, protected areas and study zone) into rasters and to manipulate climate and land-use rasters.
+
+## 2_Computing_exposure.R
+Script used to compute the four exposure metrics and the three exposure indices.
