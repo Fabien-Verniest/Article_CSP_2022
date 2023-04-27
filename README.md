@@ -10,6 +10,3 @@ Script used to compute the four exposure metrics and the three exposure indices.
 
 ## 3_Data_analysis.R
 Script used for statistical analyses, in order of appearence in the article.
-
-## 4_Figures.R
-Script used to produce the figures
