@@ -10,3 +10,6 @@ Script used to compute the four exposure metrics and the three exposure indices.
 
 ## 3_Data_analysis.R
 Script used for statistical analyses, in order of appearence in the article.
+
+## BCA.R
+Script of the Between-Class Analysis with additional explanations to script *1_Preparing_data.R*.
