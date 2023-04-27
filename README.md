@@ -9,4 +9,4 @@ Script used to convert shapefiles (Key Biodiversity Areas, protected areas, stud
 Script used to compute the four exposure metrics and the three exposure indices.
 
 ## 3_Data_analysis.R
-Script used for statistical analysis.
+Script used for statistical analyses, in order of appearence in the article.
